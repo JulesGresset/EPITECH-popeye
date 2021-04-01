@@ -1,4 +1,4 @@
-# Epitech-BSQ
+# Epitech-Popeye
 ## Subject
 You will have to containerize and define the deployment of a simple web poll application.
 There are five elements constituting the application:
